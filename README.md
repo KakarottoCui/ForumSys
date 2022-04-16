@@ -44,4 +44,4 @@
 技术选型
 Spring Boot +VUE
 
-详询 微信：egvh56ufy7hh ，承接商业项目和毕设
+详询 微信：egvh56ufy7hh 钉钉：chengxuyuandabo，承接商业项目和毕设
