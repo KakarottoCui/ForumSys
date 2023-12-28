@@ -42,6 +42,7 @@
 （18）缩略图管理功能
 
 技术选型
-Spring Boot +VUE
 
-详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 ，承接商业项目和毕设
+JAVA语言的Spring Boot框架、MySql数据库 、VUE等
+
+详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
